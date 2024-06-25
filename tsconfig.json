@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "module": "node16",
+    "rootDir": "src",
+    "outDir": "dist"
+  }
+}
